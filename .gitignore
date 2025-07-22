@@ -114,7 +114,8 @@ dist
 .yarn/cache
 .yarn/unplugged
 .yarn/build-state.yml
-.yarn/install-state.gz
+.yarn/install-state.gz.env.sample is a public template file. It shows what variables the project needs, but with placeholder or empty values. It should be committed to Git.
+
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
